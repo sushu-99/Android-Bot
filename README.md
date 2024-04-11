@@ -25,4 +25,6 @@ No external dependencies are required to run the Android Bot project. It's built
 ## Contributing
 
 Contributions are welcome! If you'd like to improve the Android Bot project or add new features, feel free to fork the repository and submit a pull request.
+![Screenshot 2024-04-11 145401](https://github.com/sushu-99/Android-Bot/assets/132267021/4370c6c4-e88a-4c30-8cd5-44a65ca3b53a)
+
 
